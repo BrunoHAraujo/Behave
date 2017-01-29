@@ -1,0 +1,2 @@
+behave==1.2.5
+junit-xml==1.7
